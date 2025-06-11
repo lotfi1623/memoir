@@ -1,4 +1,4 @@
-const API_URL = "http://localhost:3000"; // Remplace par l'URL de ton backend
+const API_URL = "https://memoir-server-prau.onrender.com"; // Remplace par l'URL de ton backend
 
 export const fetchData = async (endpoint) => {
   try {
